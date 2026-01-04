@@ -27,7 +27,7 @@ Each agent has a set of `beliefs` (scores for each party). At every step (day):
 | :--- | :--- |
 | `num-parties` | Number of competing parties (e.g., 2, 4, 6). |
 | `decay-factor` | How fast opinions fade (0.5 = fast forgetting, 0.95 = strong memory). |
-| `interaction-radius` | The size of the agent's social bubble. |
+| `interaction-radius` | The size of the agent's interaction range. |
 | `population` | Total number of voters in the simulation. |
 
 ## 📊 Key Findings
