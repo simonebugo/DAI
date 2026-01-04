@@ -1,6 +1,6 @@
 # 🗳️ Electoral Dynamics & Polarization 
 
-An Agent-Based Model (ABM) developed in **NetLogo** to simulate how social influence, memory decay, and political fragmentation affect voter turnout and polarization.
+An multi agent system developed in **NetLogo** to simulate how social influence, memory decay, and political fragmentation affect voter turnout and polarization.
 
 ## 📌 Project Overview
 
