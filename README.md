@@ -36,7 +36,7 @@ Analysis performed on **1,600+ simulations** using Python (Pandas/Seaborn) revea
 
 1.  **Memory is Crucial for Democracy:** There is a direct correlation between the `decay-factor` and turnout. If agents "forget" too fast (Decay < 0.6), turnout collapses to near zero.
 2.  **The Two-Party Trap:** Systems with only 2 parties show extreme polarization (high variance) and "Winner-takes-all" outcomes. Multi-party systems (6 parties) distribute votes more evenly, reducing polarization.
-3.  **Social Radius Impact:** Surprisingly, expanding the social radius (breaking bubbles) does not significantly reduce the gap between the winner and the runner-up; the party system structure matters more than individual connectivity.
+3.  **Social Radius Impact:** Surprisingly, expanding the social radius does not significantly reduce the gap between the winner and the runner-up; the party system structure matters more than individual connectivity.
 
 ## 📂 Repository Structure
 
